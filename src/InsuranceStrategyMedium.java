@@ -7,7 +7,6 @@ public class InsuranceStrategyMedium extends InsuranceStrategy {
     public double getWeight() {
         return 0.2;
     }
-
     @Override
     public int getAdjustment() {
         return 10000;
